@@ -236,7 +236,7 @@ function addBonusToAllRolls(rolls) {
 }
 
 const rolls = [4, 5, 6, 1];
-console.log(addBonusToAllRolls(rolls)); //> [ 6, 7, 8, 1 ];
+console.log(addBonusToAllRolls(rolls)); //> [ 6, 7, 8, 3 ];
 ```
 
 In the example above, a new array has been created with minor transformations from the old one.
